@@ -1,0 +1,46 @@
+body {
+	background-image: url("media/site/bground.png");
+	background-color: gray;
+}
+
+h1 {
+	color: white;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
+
+h2 {
+	color: white;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
+
+h3 {
+	color: white;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
+
+p {
+	color: white;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
+
+i {
+	color: white;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
+
+b {
+	color: white;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
+
+a {
+	color: cyan;
+	text-align: justify;
+	font-family: "Lucida Console", Monaco, "Courier New";
+}
